@@ -1,0 +1,63 @@
+#mybody{
+    background: #f4f4f4;
+}
+
+table{
+    width:20%;
+    margin: 0 auto;
+}
+
+form{
+    margin-top: 20px;
+}
+
+tbody{
+    width: 500px;
+    border-radius: 15px;
+}
+
+.ancho{
+    display:inline;
+    text-align:center;
+}
+
+h1, h2, h3{
+    text-align:center;
+}
+
+.bloque{
+    display:block;
+}
+
+#formulario{
+    /* background-color: none;*/
+}
+
+#formulario-titulo{
+    background: #636363;
+    color:#fff;
+    padding: 20px;
+    text-align: center;
+    font-weight: 100;
+    font-size: 30px;
+    border-radius: 7px;
+}
+.td1{
+    
+}
+
+td{
+    padding:10px
+}
+
+.container-total {
+    padding: 10px;
+    width: 70%;
+    margin: 20px auto 0 auto;
+    border: 1px solid rgba(0,0,0,0.1);
+    border-radius: 2px;
+}
+
+.container-total h1 {
+    color: dimgray;
+}
